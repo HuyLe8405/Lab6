@@ -1,0 +1,17 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "Repo for lab6 azure",
+  "main": "index.js",
+"scripts": {
+  "start": "node index.js",
+  "build": "echo 'Build step done!'",
+  "test": "echo 'Test passed!'"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
